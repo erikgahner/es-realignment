@@ -1,0 +1,38 @@
+
+The results are produced with 02-analysis.R with this session in R:
+
+R version 4.2.0 (2022-04-22)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS 13.0.1
+
+Matrix products: default
+LAPACK: /Library/Frameworks/R.framework/Versions/4.2/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rstatix_0.7.1     scales_1.2.1      flextable_0.8.3   gtsummary_1.6.2   gt_0.8.0          gridExtra_2.3    
+ [7] ggalluvial_0.12.3 stargazer_5.2.3   patchwork_1.1.2   nnet_7.3-18       broom_1.0.1       forcats_0.5.2    
+[13] stringr_1.4.1     dplyr_1.0.10      purrr_0.3.5       readr_2.1.3       tidyr_1.2.1       tibble_3.1.8     
+[19] ggplot2_3.4.0     tidyverse_1.3.2  
+
+loaded via a namespace (and not attached):
+ [1] httr_1.4.4          bit64_4.0.5         vroom_1.6.0         jsonlite_1.8.3      carData_3.0-5      
+ [6] modelr_0.1.10       assertthat_0.2.1    googlesheets4_1.0.1 cellranger_1.1.0    gdtools_0.2.4      
+[11] pillar_1.8.1        backports_1.4.1     glue_1.6.2          uuid_1.1-0          digest_0.6.30      
+[16] rvest_1.0.3         colorspace_2.0-3    htmltools_0.5.3     pkgconfig_2.0.3     haven_2.5.1        
+[21] officer_0.4.4       tzdb_0.3.0          timechange_0.1.1    googledrive_2.0.0   farver_2.1.1       
+[26] generics_0.1.3      car_3.1-1           ellipsis_0.3.2      withr_2.5.0         cli_3.4.1          
+[31] magrittr_2.0.3      crayon_1.5.2        readxl_1.4.1        evaluate_0.18       fs_1.5.2           
+[36] fansi_1.0.3         broom.helpers_1.9.0 xml2_1.3.3          textshaping_0.3.6   tools_4.2.0        
+[41] data.table_1.14.6   hms_1.1.2           gargle_1.2.1        lifecycle_1.0.3     munsell_0.5.0      
+[46] reprex_2.0.2        zip_2.2.2           compiler_4.2.0      systemfonts_1.0.4   rlang_1.0.6        
+[51] grid_4.2.0          rstudioapi_0.14     labeling_0.4.2      base64enc_0.1-3     rmarkdown_2.18     
+[56] gtable_0.3.1        abind_1.4-5         DBI_1.1.3           R6_2.5.1            lubridate_1.9.0    
+[61] knitr_1.41          fastmap_1.1.0       bit_4.0.5           utf8_1.2.2          ragg_1.2.4         
+[66] stringi_1.7.8       parallel_4.2.0      Rcpp_1.0.9          vctrs_0.5.1         dbplyr_2.2.1       
+[71] tidyselect_1.2.0    xfun_0.35          
